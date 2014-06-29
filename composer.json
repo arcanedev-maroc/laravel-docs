@@ -1,5 +1,5 @@
 {
-    "name": "arcanedev/laravel-docs",
+    "name": "arcanedev-maroc/laravel-docs",
     "license": "MIT",
     "description": "Laravel Docs is an offline Multilang & Multi-versions documentation manager for Laravel 4.",
     "keywords": ["laravel", "docs", "multilang", "multi-versions", "noobs"],
