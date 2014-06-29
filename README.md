@@ -18,11 +18,6 @@ Simply add the package to your `composer.json` file and run `composer update`.
 }
 ```
 
-Update composer:
-```
-$ php composer.phar update
-```
-
 Add the provider to your `app/config/app.php`:
 
 ```php
