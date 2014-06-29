@@ -8,7 +8,7 @@
 
 		<title>Laravel Docs</title>
 		{{-- CSS --}}
-		{{ HTML::style('packages/arcanedev/laravel-docs/css/style.css') }}
+		{{ HTML::style('packages/arcanedev-maroc/laravel-docs/css/style.css') }}
 
 		{{-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries --}}
 		<!--[if lt IE 9]>
@@ -41,6 +41,6 @@
 		@include('laravel-docs::_templates.footer')
 
 		{{-- JavaScripts --}}
-		{{ HTML::script('packages/arcanedev/laravel-docs/js/main.min.js') }}
+		{{ HTML::script('packages/arcanedev-maroc/laravel-docs/js/main.min.js') }}
 	</body>
 </html>
