@@ -1,0 +1,23 @@
+{
+    "name": "arcanedev/laravel-docs",
+    "license": "MIT",
+    "description": "Laravel Docs is an offline Multilang & Multi-versions documentation manager for Laravel 4.",
+    "keywords": ["laravel", "docs", "multilang", "multi-versions", "noobs"],
+    "authors": [
+        {
+            "name": "ARCANEDEV",
+            "email": "contact@arcanedev.net"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*",
+        "erusev/parsedown-extra": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Arcanedev\\LaravelDocs\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
